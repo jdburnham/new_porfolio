@@ -2,13 +2,15 @@
   <div class="flex justify-center items-center">
     <div class="h-20 bottom-o py-8 flex">
       <p class="pr-2">&copy; Josh Burnham</p>
-      <a class="github" href="https://github.com/jdburnham" target="_blank"
-        ><GithubCircle
-      /></a>
-      <a class="reddit" href="https://reddit.com" target="_blank"><Reddit /></a>
-      <a class="facebook" href="https://facebook.com" target="_blank"
-        ><Facebook
-      /></a>
+      <a class="github" href="https://github.com/jdburnham" target="_blank">
+        <GithubCircle />
+      </a>
+      <a class="reddit" href="https://reddit.com" target="_blank">
+        <Reddit />
+      </a>
+      <a class="facebook" href="https://facebook.com" target="_blank">
+        <Facebook />
+      </a>
     </div>
   </div>
 </template>
