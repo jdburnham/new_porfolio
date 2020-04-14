@@ -7,6 +7,7 @@ import mynotes from '../assets/projects/06.png'
 import login from '../assets/projects/07.png'
 import superheroes from '../assets/projects/08.png'
 import moviesdb from '../assets/projects/09.png'
+import blog from '../assets/projects/10.png'
 
 const projects = [
   {
@@ -83,6 +84,14 @@ const projects = [
     image: moviesdb,
     hashtags: ['api', 'firebase', 'vuejs', 'javascript', 'vuetify', 'vuex'],
     url: 'https://moviesdb.jburnhamprojects.xyz/'
+  },
+  {
+    name: 'Blog App',
+    description:
+      'A Vue.js Application with Vuex & Vuetify implementing my own BackEnd API. ',
+    image: blog,
+    hashtags: ['api', 'firebase', 'vuejs', 'javascript', 'vuetify', 'vuex'],
+    url: 'https://blog.jburnhamprojects.xyz/'
   }
 ]
 
