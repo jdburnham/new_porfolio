@@ -8,6 +8,7 @@ import login from '../assets/projects/07.png'
 import superheroes from '../assets/projects/08.png'
 import moviesdb from '../assets/projects/09.png'
 import blog from '../assets/projects/10.png'
+import chat from '../assets/projects/11.png'
 
 const projects = [
   {
@@ -92,6 +93,14 @@ const projects = [
     image: blog,
     hashtags: ['api', 'firebase', 'vuejs', 'javascript', 'vuetify', 'vuex'],
     url: 'https://blog.jburnhamprojects.xyz/'
+  },
+  {
+    name: 'Chat App',
+    description:
+      'A Vue.js Application with Vuex & Vuetify implementing Firebase Store and Login. ',
+    image: chat,
+    hashtags: ['api', 'firebase', 'vuejs', 'javascript', 'vuetify', 'vuex'],
+    url: 'https://chatapp.jburnhamprojects.xyz/'
   }
 ]
 
