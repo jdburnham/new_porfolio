@@ -9,6 +9,7 @@ import superheroes from '../assets/projects/08.png'
 import moviesdb from '../assets/projects/09.png'
 import blog from '../assets/projects/10.png'
 import chat from '../assets/projects/11.png'
+import mystore from '.../assets/projects/12.png'
 
 const projects = [
   {
@@ -101,6 +102,14 @@ const projects = [
     image: chat,
     hashtags: ['api', 'firebase', 'vuejs', 'javascript', 'vuetify', 'vuex'],
     url: 'https://chatapp.jburnhamprojects.xyz/'
+  },
+  {
+    name: 'Pseudo Store App',
+    description:
+      'A Pseudo Shop project with Firebase, Vue.js, Vuetify, FirebaseUI, VueFire ',
+    image: mystore,
+    hashtags: ['vuefire', 'firebase', 'vuejs', 'database', 'vuetify', 'vuex'],
+    url: 'https://mystore.jburnhamprojects.xyz/'
   }
 ]
 
