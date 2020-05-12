@@ -10,6 +10,7 @@ import moviesdb from '../assets/projects/09.png'
 import blog from '../assets/projects/10.png'
 import chat from '../assets/projects/11.png'
 import mystore from '../assets/projects/12.png'
+import finalProject from '../assets/projects/final.jpg'
 
 const projects = [
   {
@@ -110,6 +111,21 @@ const projects = [
     image: mystore,
     hashtags: ['vuefire', 'firebase', 'vuejs', 'database', 'vuetify', 'vuex'],
     url: 'https://mystore.jburnhamprojects.xyz/'
+  },
+  {
+    name: 'Table Top RPG Charactor Creator',
+    description:
+      'An application that assists with creating a level 1 character for an RPG. ',
+    image: finalProject,
+    hashtags: [
+      'vuefire',
+      'firebase',
+      'vuejs',
+      'database',
+      'tailwindcss',
+      'vuex'
+    ],
+    url: 'https://finalproject.jburnhamprojects.xyz/'
   }
 ]
 
